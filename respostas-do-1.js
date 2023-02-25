@@ -29,12 +29,3 @@ console.log(cidadeNatal)
 exibiu as duas profissoes, mas quando atribui um novo 
 valor a const deu erro, pois o valor da const é fixo;
 */
-
-/*  2. Abaixo iremos ver algumas declarações de constantes e variáveis, observe se as declarações estão de acordo com a sintaxe do Javascript. Caso não esteja, corrija, deixando-a válida.
-Conteúdos avaliados: variáveis, constantes e seus padrões de nomenclatura
-
-a. algum_nome: Mariana
-b. var Nome = 32; 
-c. const: idade 40;
-d. let profissão = 'desenvolvedor';*/
-
